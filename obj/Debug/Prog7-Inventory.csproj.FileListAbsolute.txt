@@ -1,0 +1,34 @@
+c:\users\karin\documents\visual studio 2013\Projects\Prog7-Inventory\Prog7-Inventory\bin\Debug\Prog7-Inventory.exe.config
+C:\Users\Karin\documents\visual studio 2013\Projects\Prog7-Inventory\Prog7-Inventory\obj\Debug\Prog7-Inventory.csprojResolveAssemblyReference.cache
+C:\Users\Karin\documents\visual studio 2013\Projects\Prog7-Inventory\Prog7-Inventory\obj\Debug\Prog7_Inventory.InvParent.resources
+C:\Users\Karin\documents\visual studio 2013\Projects\Prog7-Inventory\Prog7-Inventory\obj\Debug\Prog7_Inventory.ItemInformation.resources
+C:\Users\Karin\documents\visual studio 2013\Projects\Prog7-Inventory\Prog7-Inventory\obj\Debug\Prog7_Inventory.Properties.Resources.resources
+C:\Users\Karin\documents\visual studio 2013\Projects\Prog7-Inventory\Prog7-Inventory\obj\Debug\Prog7_Inventory.StoreForm.resources
+C:\Users\Karin\documents\visual studio 2013\Projects\Prog7-Inventory\Prog7-Inventory\obj\Debug\Prog7-Inventory.csproj.GenerateResource.Cache
+C:\Users\Karin\documents\visual studio 2013\Projects\Prog7-Inventory\Prog7-Inventory\bin\Debug\Prog7-Inventory.exe
+C:\Users\Karin\documents\visual studio 2013\Projects\Prog7-Inventory\Prog7-Inventory\bin\Debug\Prog7-Inventory.pdb
+C:\Users\Karin\documents\visual studio 2013\Projects\Prog7-Inventory\Prog7-Inventory\obj\Debug\Prog7-Inventory.exe
+C:\Users\Karin\documents\visual studio 2013\Projects\Prog7-Inventory\Prog7-Inventory\obj\Debug\Prog7-Inventory.pdb
+C:\Users\Karin\documents\visual studio 2013\Projects\Prog7-Inventory\Prog7-Inventory\obj\Debug\Prog7_Inventory.AboutForm.resources
+C:\Users\Karin\Documents\Visual Studio 2013\Projects\Prog7-Inventory\Prog7-Inventory\obj\Debug\Prog7_Inventory.File_Name.resources
+C:\Users\Karin\Documents\Visual Studio 2013\Projects\Prog7-Inventory\Prog7-Inventory\obj\Debug\Prog7_Inventory.GetFileName.resources
+E:\Prog7-Inventory\Prog7-Inventory\bin\Debug\Prog7-Inventory.exe.config
+E:\Prog7-Inventory\Prog7-Inventory\obj\Debug\Prog7-Inventory.exe
+E:\Prog7-Inventory\Prog7-Inventory\obj\Debug\Prog7-Inventory.pdb
+E:\Prog7-Inventory\Prog7-Inventory\bin\Debug\Prog7-Inventory.exe
+E:\Prog7-Inventory\Prog7-Inventory\bin\Debug\Prog7-Inventory.pdb
+E:\Prog7-Inventory\Prog7-Inventory\obj\Debug\Prog7-Inventory.csprojResolveAssemblyReference.cache
+E:\Prog7-Inventory\Prog7-Inventory\obj\Debug\Prog7_Inventory.AboutForm.resources
+E:\Prog7-Inventory\Prog7-Inventory\obj\Debug\Prog7_Inventory.File_Name.resources
+E:\Prog7-Inventory\Prog7-Inventory\obj\Debug\Prog7_Inventory.GetFileName.resources
+E:\Prog7-Inventory\Prog7-Inventory\obj\Debug\Prog7_Inventory.InvParent.resources
+E:\Prog7-Inventory\Prog7-Inventory\obj\Debug\Prog7_Inventory.ItemInformation.resources
+E:\Prog7-Inventory\Prog7-Inventory\obj\Debug\Prog7_Inventory.Properties.Resources.resources
+E:\Prog7-Inventory\Prog7-Inventory\obj\Debug\Prog7_Inventory.StoreForm.resources
+E:\Prog7-Inventory\Prog7-Inventory\obj\Debug\Prog7-Inventory.csproj.GenerateResource.Cache
+E:\Prog7-Inventory-F\Prog7-Inventory\bin\Debug\Prog7-Inventory.exe.config
+E:\Prog7-Inventory-F\Prog7-Inventory\obj\Debug\Prog7-Inventory.exe
+E:\Prog7-Inventory-F\Prog7-Inventory\obj\Debug\Prog7-Inventory.pdb
+I:\Prog7-Inventory-F\Prog7-Inventory\bin\Debug\Prog7-Inventory.exe.config
+I:\Prog7-Inventory-F\Prog7-Inventory\obj\Debug\Prog7-Inventory.exe
+I:\Prog7-Inventory-F\Prog7-Inventory\obj\Debug\Prog7-Inventory.pdb
